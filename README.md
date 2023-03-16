@@ -1,5 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]([https://rishavchanda.io](https://www.buymeacoffee.com/derder3010))
 <h1 align="center">Hi 👋, I'm Der</h1>
 <h3 align="center">A amateur coder on internet!</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471ue1wa7edddsxyw10i8or3jow77h00d44wccc2x0&amp;rid=giphy.gif&amp;ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derder3010&label=Profile%20views&color=0e75b6&style=flat" alt="derder3010" /> </p>
 
