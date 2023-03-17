@@ -20,10 +20,35 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+![Profile Viewers](https://komarev.com/ghpvc/?username=Xnuvers007&color=blue)
+
+☆ <b>VISTOR COUNT ☆
+  <h4 align="center">
+
+  <img src="https://profile-counter.glitch.me/Xnuvers007/count.svg" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=derder3010&show_icons=true&theme=dark" alt="derder3010 GitHub stats">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnuvers007&langs_count=10&theme=radical&count_private=true" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derder3010&theme=dark" alt="derder3010" /></p>
+	<p><img align="center" src="https://github.com/Xnuvers007/Xnuvers007/blob/main/snake-xnuvers007.svg" alt="derder3010" /></p>
+	  
+	  <!-- source snake IMG = https://platane.github.io/snk -->
+  
+  <audio loop="true" autoplay="true">
+	<source src="https://f.top4top.io/m_1874i0i0m0.mp3" type="audio/mpeg">
+  </audio
+</p>
+
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="gif" />
+
+<center>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/derder3010"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="derder3010" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derder3010&show_icons=true&locale=en" alt="derder3010" /></p>
 
