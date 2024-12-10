@@ -35,15 +35,11 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derder3010&theme=dark" alt="derder3010" /></p>
 	<p><img align="center" src="https://github.com/Xnuvers007/Xnuvers007/blob/main/snake-xnuvers007.svg" alt="derder3010" /></p>
 	  
-	  <!-- source snake IMG = https://platane.github.io/snk -->
   
   <audio loop="true" autoplay="true">
 	<source src="https://f.top4top.io/m_1874i0i0m0.mp3" type="audio/mpeg">
   </audio
 </p>
-
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="gif" />
-
 <center>
 
 
