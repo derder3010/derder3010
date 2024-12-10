@@ -28,9 +28,9 @@
   <img src="https://profile-counter.glitch.me/Xnuvers007/count.svg" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derder3010&show_icons=true&theme=dark" alt="derder3010 GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xnuvers007&show_icons=true&theme=dark" alt="derder3010 GitHub stats">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derder3010" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnuvers007&langs_count=10&theme=radical&count_private=true" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derder3010&theme=dark" alt="derder3010" /></p>
 	<p><img align="center" src="https://github.com/Xnuvers007/Xnuvers007/blob/main/snake-xnuvers007.svg" alt="derder3010" /></p>
