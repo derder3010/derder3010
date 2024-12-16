@@ -29,6 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=derder3010&show_icons=true&theme=dark" alt="derder3010 GitHub stats">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derder3010&theme=dark" alt="derder3010" /></p>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derder3010&langs_count=10&theme=radical&count_private=true" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
 
