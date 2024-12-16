@@ -22,10 +22,6 @@
 
 ![Profile Viewers](https://komarev.com/ghpvc/?username=Xnuvers007&color=blue)
 
-☆ <b>VISTOR COUNT ☆
-  <h4 align="center">
-
-  <img src="https://profile-counter.glitch.me/Xnuvers007/count.svg" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=derder3010&show_icons=true&theme=dark" alt="derder3010 GitHub stats">
