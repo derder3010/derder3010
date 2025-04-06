@@ -25,7 +25,6 @@
 <p align="center">
 
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derder3010&theme=dark" alt="derder3010" /></p>
   <p><img align="center" src="https://github.com/Xnuvers007/Xnuvers007/blob/main/snake-xnuvers007.svg" alt="derder3010" /></p>
 
   
